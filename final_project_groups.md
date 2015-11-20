@@ -9,6 +9,6 @@
 |Charles <br> Ayuna <br> Eric|Eric|NeverLate|[NeverLate](https://github.com/ayunav/NeverLateApp)|Dave Grandinetti|
 |Artur <br> Shena <br> Zoufishan <br> Henna|Shena|Uncharted|[Uncharted](https://github.com/xhenna92/unit-3-final-project)|Jiaqi Liu|
 |Lauren <br> Jovanny <br> Bereket|Jovanny|Frame|[Frame](https://github.com/JovannyEspinal/Frame)|Sarah Scott|
-|Kaira <br> Natalia <br> Jamaal <br> Dan|Dan|Tekton|[Tekton](https://github.com/NataliaEstrella/unit-3-final-project)|Michael Vilabrera|
+|Kaira <br> Natalia <br> Jamaal <br> Dan|Dan|Zetron|[Zetron](https://github.com/NataliaEstrella/unit-3-final-project)|Michael Vilabrera|
 
  
