@@ -1,4 +1,5 @@
-## Weekly Retro Template  
+## Weekly Retro  
+### Due: November 17, 2015 
 
 **Goals for last week**:
   *  Create a unified theme.
